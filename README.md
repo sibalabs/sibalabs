@@ -3,9 +3,6 @@
   # 🏛️ SIBA LABS
   **Enterprise AI Architecture & Autonomous Multi-Agent Orchestration**
 
-  [![Portfolio](https://img.shields.io/badge/View_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL_HERE)
-  [![Upwork](https://img.shields.io/badge/Fractional_CTO-14A800?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_PROFILE_URL_HERE)
-
   ---
 </div>
 
