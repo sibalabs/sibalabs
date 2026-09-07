@@ -1,32 +1,16 @@
-<div align="center">
-  
-  # 🏛️ SIBA LABS
-  **Enterprise AI Architecture & Autonomous Multi-Agent Orchestration**
+![SIBA LABS](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&duration=3000&pause=1000&color=FFFFFF&width=800&height=60&lines=SIBA+LABS;ENTERPRISE+AI+ARCHITECTURE;ZERO-TRUST+INFRASTRUCTURE;FRACTIONAL+CTO+ENGAGEMENTS)
 
-  ---
-</div>
+![Capacity](https://img.shields.io/badge/CAPACITY-AVAILABLE_FOR_CONTRACTS-10B981?style=for-the-badge&labelColor=0F172A) ![Mode](https://img.shields.io/badge/MODE-PROPRIETARY_IP_%2F_CLOSED_SOURCE-F59E0B?style=for-the-badge&labelColor=0F172A)
 
-### ⚡ The Engine Room
-Siba Labs architects production-grade, Zero-Trust AI infrastructure for high-ticket SaaS and enterprise environments. We specialize in decoupling heavy machine learning inference from ultra-low latency edge networking to build systems that do not break under load.
-
-**Core Architectural Stack:**
-*   **Edge & Streaming:** Go, WebRTC, WebSockets
-*   **Microservices IPC:** gRPC (High-Speed Binary Serialization)
-*   **Neural Inference & Logic:** Python, FastAPI
-*   **Orchestration:** CrewAI (Deterministic Agent Workflows)
-*   **Infrastructure:** RunPod (GPU Inference), Railway
-
-<div align="center">
-  <br />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-</div>
+> **Architecting production-grade, polyglot microservices for high-ticket SaaS.**
+> I partner with solo founders and enterprise teams to architect autonomous, multi-agent workflows and zero-trust backend systems. If you need to scale your operational output asynchronously without increasing headcount, let's map out your technical roadmap.
 
 ---
 
-### 🛡️ Open-Source Infrastructure
-*Our core WebRTC engines and proprietary multi-agent orchestrators are closed-source to protect client IP. Below are our public, purpose-built edge modules:*
+### ✦ CORE COMMAND STACK
+
+| Frontend | Edge & Streaming | IPC Protocol | Inference & Logic | Orchestration | Infrastructure |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Next.js** | **Go • WebRTC** | **gRPC** | **Python • FastAPI** | **CrewAI** | **RunPod • Railway** |
+
+---
