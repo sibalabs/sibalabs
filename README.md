@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
+  
+  # 🏛️ SIBA LABS
+  **Enterprise AI Architecture & Autonomous Multi-Agent Orchestration**
 
-<!--
-**sibalabs/sibalabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![Portfolio](https://img.shields.io/badge/View_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL_HERE)
+  [![Upwork](https://img.shields.io/badge/Fractional_CTO-14A800?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_PROFILE_URL_HERE)
 
-Here are some ideas to get you started:
+  ---
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ The Engine Room
+Siba Labs architects production-grade, Zero-Trust AI infrastructure for high-ticket SaaS and enterprise environments. We specialize in decoupling heavy machine learning inference from ultra-low latency edge networking to build systems that do not break under load.
+
+**Core Architectural Stack:**
+*   **Edge & Streaming:** Go, WebRTC, WebSockets
+*   **Microservices IPC:** gRPC (High-Speed Binary Serialization)
+*   **Neural Inference & Logic:** Python, FastAPI
+*   **Orchestration:** CrewAI (Deterministic Agent Workflows)
+*   **Infrastructure:** RunPod (GPU Inference), Railway
+
+<div align="center">
+  <br />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+</div>
+
+---
+
+### 🛡️ Open-Source Infrastructure
+*Our core WebRTC engines and proprietary multi-agent orchestrators are closed-source to protect client IP. Below are our public, purpose-built edge modules:*
