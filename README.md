@@ -10,7 +10,7 @@
 
 <br>
 
-I build AI tools for small teams that lose hours every week to stock sheets, repeat questions and reports. Every build is fixed scope, delivered in weekly milestones, and nothing goes live without your approval.
+I build custom AI tools for small teams, from document assistants to agent teams and internal dashboards, shaped around how your business actually runs. Every build is fixed scope, delivered in weekly milestones, and nothing goes live without your approval.
 
 ## Three builds, running
 
