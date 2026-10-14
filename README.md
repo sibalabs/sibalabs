@@ -34,7 +34,15 @@ A command center where a team of AI agents does the research and drafting, and y
 </tr>
 </table>
 
-<sub>All demos run on invented data. Code is private; I am happy to walk through the architecture on Upwork.</sub>
+## Code you can read
+
+The demos above are private. These small public repos are the engineering patterns inside them, extracted so you can judge my code and documentation yourself:
+
+| Repo | The idea |
+|---|---|
+| [citation-guard](https://github.com/sibalabs/citation-guard) | An AI answer is shown only if every claim quotes your own documents word for word |
+| [role-scoped-data](https://github.com/sibalabs/role-scoped-data) | Roles are enforced in the database, with a tamper-evident audit log |
+| [approval-gate](https://github.com/sibalabs/approval-gate) | Agents propose; nothing runs until a person approves |
 
 ## What working with me looks like
 
