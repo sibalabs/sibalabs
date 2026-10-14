@@ -38,8 +38,6 @@ A command center where a team of AI agents does the research and drafting, and y
 
 ## What working with me looks like
 
-<a href="SITE_URL/#process"><img src="work-with-me.jpg" alt="Working with me: fixed scope, weekly milestones, you approve every step" width="560"></a>
-
 1. **You message me** with the process that eats your week.
 2. **A fixed-scope proposal:** a clear price, a clear timeline, three tiers.
 3. **Weekly milestones:** working pieces along the way, and your approval before anything goes live.
