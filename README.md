@@ -17,17 +17,17 @@ I build AI tools for small teams that lose hours every week to stock sheets, rep
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="SITE_URL/use-cases/siba-assistant"><img src="assets/card-assistant.png" alt="Siba Assistant"></a>
+<a href="SITE_URL/use-cases/siba-assistant"><img src="card-assistant.png" alt="Siba Assistant"></a>
 <br><b>Siba Assistant</b><br>
 Answers only from your own documents, quotes the passage it used, and shows each person only what their role allows. Every question is logged.
 </td>
 <td width="33%" valign="top">
-<a href="SITE_URL/use-cases/hermes"><img src="assets/card-hermes.png" alt="Hermes"></a>
+<a href="SITE_URL/use-cases/hermes"><img src="card-hermes.png" alt="Hermes"></a>
 <br><b>Hermes</b><br>
 Finds the stock that is not moving, sets safe discounts with a margin floor, researches the market and drafts the sale email. You approve before anything goes out.
 </td>
 <td width="33%" valign="top">
-<a href="SITE_URL/use-cases/siba-hq-agent-command-center"><img src="assets/card-hq.png" alt="SIBA HQ"></a>
+<a href="SITE_URL/use-cases/siba-hq-agent-command-center"><img src="card-hq.png" alt="SIBA HQ"></a>
 <br><b>SIBA HQ</b><br>
 A command center where a team of AI agents does the research and drafting, and you make the calls.
 </td>
@@ -38,7 +38,7 @@ A command center where a team of AI agents does the research and drafting, and y
 
 ## What working with me looks like
 
-<a href="SITE_URL/#process"><img src="assets/work-with-me.jpg" alt="Working with me: fixed scope, weekly milestones, you approve every step" width="560"></a>
+<a href="SITE_URL/#process"><img src="work-with-me.jpg" alt="Working with me: fixed scope, weekly milestones, you approve every step" width="560"></a>
 
 1. **You message me** with the process that eats your week.
 2. **A fixed-scope proposal:** a clear price, a clear timeline, three tiers.
