@@ -43,6 +43,7 @@ The demos above are private. These small public repos are the engineering patter
 | [citation-guard](https://github.com/sibalabs/citation-guard) | An AI answer is shown only if every claim quotes your own documents word for word |
 | [role-scoped-data](https://github.com/sibalabs/role-scoped-data) | Roles are enforced in the database, with a tamper-evident audit log |
 | [approval-gate](https://github.com/sibalabs/approval-gate) | Agents propose; nothing runs until a person approves |
+| [pricing-rules](https://github.com/sibalabs/pricing-rules) | Discounts for slow stock that can never drop below your margin floor |
 
 ## What working with me looks like
 
