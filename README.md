@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Siba Labs: AI tools for small teams" width="100%">
+<img src="banner.png" alt="Siba Labs: AI tools for small teams" width="100%">
 
 ### Founder-led AI builds with a human in charge
 
-**[Message me on Upwork](https://www.upwork.com/freelancers/~01c74e810b92cb4ef5)**  ·  **[See the work](SITE_URL)**
+**[See the work](SITE_URL)**
 
 </div>
 
@@ -54,6 +54,5 @@ A command center where a team of AI agents does the research and drafting, and y
 <div align="center">
 
 **Got a process that eats your week?**
-**[Message me on Upwork](https://www.upwork.com/freelancers/~01c74e810b92cb4ef5)**
 
 </div>
