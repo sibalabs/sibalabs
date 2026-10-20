@@ -4,7 +4,7 @@
 
 ### AI assistants you can trust, and security audits for AI-built apps
 
-**[See the work](https://sibalabs.vercel.app)** · **[Hire me on Upwork](YOUR_UPWORK_URL)**
+**[See the work](https://sibalabs.vercel.app)** 
 
 </div>
 
